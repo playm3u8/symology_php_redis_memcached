@@ -1,7 +1,7 @@
 #!/bin/bash
 # author:admin@yangsifa.com
 # 开启群晖隐藏的PHP扩展【redis】【memcached】
-# 执行命令：wget -O php_extend.sh http://10.0.0.3/php_extend.sh && sudo bash php_extend.sh
+# 执行命令：wget -O php_extend.sh https://api.mvgao.com:999/bash/php_extend.sh && sudo bash php_extend.sh
 
 # 文件后部分路径
 file="/misc/extension_list.json"
