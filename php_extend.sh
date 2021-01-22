@@ -1,5 +1,5 @@
 #!/bin/bash
-# author:admin@yangsifa.com
+# author:admin@m.mvgao.com
 # 开启群晖隐藏的PHP扩展【redis】【memcached】
 # 执行命令：wget -O php_extend.sh https://api.mvgao.com:999/bash/php_extend.sh && sudo bash php_extend.sh
 
